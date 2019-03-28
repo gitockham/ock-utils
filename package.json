@@ -4,7 +4,8 @@
     "version": "0.3.0",
     "contributors": [
         "Brian Faust <brian@ark.io>",
-        "Joshua Noack <joshua@ark.io>"
+        "Joshua Noack <joshua@ark.io>",
+        "Luc Talarico <ceo@ockham.consulting>"
     ],
     "license": "MIT",
     "main": "dist/index",
